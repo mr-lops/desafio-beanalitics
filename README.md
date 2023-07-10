@@ -8,7 +8,7 @@
 
 ### [Link Sheets](https://docs.google.com/spreadsheets/d/1cZ-4FipfoxNne5vdjtY4VsFkLCU6HLBrgHqYqqWI2JU/edit#gid=1509070499)
 
-## Sobre <a name = "sobre"></a>
+## Introdução <a name = "sobre"></a>
 
 O case tecnico consiste em realizar a extração das informações da base de dados listada no website:
 
@@ -17,7 +17,7 @@ https://steamdb.info/sales/
 Armazenar os dados extraidos no Google BigQuery<br>
 Em seguida exportar ou conectar esses dados em um Google Sheets e gerar um link para compartilhamento.
 
-## Getting Started <a name = "caminho"></a>
+## Sobre o Projeto <a name = "caminho"></a>
 
 O projeto foi construido utilizando python para a extração dos dados do site. Como o site é protegido pelo sistema anti-bot do Cloudflare, foi utilizando a biblioteca <b>undetected_chromedriver</b> em conjunto com <b>selenium</b> para extração dos dados.<br>
 Após a extração, os dados são tratados, removendo informações inconsistentes. Depois é utilizado o <b>pandas</b> para transformar os dados em uma tabela e é realizado mais transformações nos dados. <br>
