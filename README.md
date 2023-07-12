@@ -14,8 +14,7 @@ O case tecnico consiste em realizar a extração das informações da base de da
 
 https://steamdb.info/sales/
 
-Armazenar os dados extraidos no Google BigQuery<br>
-Em seguida exportar ou conectar esses dados em um Google Sheets e gerar um link para compartilhamento.
+Armazenar os dados extraidos no Google BigQuery, em seguida exportar ou conectar esses dados em um Google Sheets e gerar um link para compartilhamento.
 
 ## Sobre o Projeto <a name = "caminho"></a>
 
