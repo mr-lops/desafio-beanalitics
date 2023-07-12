@@ -1,4 +1,4 @@
-# Desafio beAnalytics
+# Web Scraping Challenge
 
 ## Índice
 
@@ -29,6 +29,4 @@ Com esse plugin é possivel realizar uma conexão entre a tabela do BigQuery e d
 
 ## Considerações Finais <a name = "final"></a>
 
-Agradeço a empresa por dar a oportunidade de participar do processo seletivo para Engenheiro de Dados Jr e demonstrar minhas habilidades realizando esse desafio.
-
-Como não tenho autorização do site para realizar a extração dos dados pois site não permite a extração das informações <i>(de acordo com o FAQ)</i>, resolvi realizar a extração de dados somente da primeira lista de jogos. Uma alternativa de obter as informações seria utilizar alguma <a href='https://github.com/ValvePython/steam'>biblioteca</a> para obter as informações diretamente da steam, assim respeitando as politicas de uso do site steamDB.
+Como não tenho autorização do site para realizar a extração dos dados pois site não permite a extração das informações <i>(de acordo com o FAQ)</i>, resolvi realizar a extração de dados somente da primeira lista de jogos. Uma alternativa de obter as informações seria utilizar alguma <a href='https://github.com/ValvePython/steam'>biblioteca</a> para obter as informações diretamente do steam, assim respeitando as politicas de uso do site steamDB.
