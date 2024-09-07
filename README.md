@@ -4,7 +4,6 @@
 
 - [Introdução](#sobre)
 - [Sobre o Projeto](#caminho)
-- [Considerações Finais](#final)
 
 ### [Link Sheets](https://docs.google.com/spreadsheets/d/1cZ-4FipfoxNne5vdjtY4VsFkLCU6HLBrgHqYqqWI2JU/edit#gid=1509070499)
 
@@ -25,7 +24,3 @@ Por fim, é criado uma tabela no Google Sheets com compartilhamento de visualiza
 <img src="img/plugin_bigquery_sheets.jpg" border="0">
 
 Com esse plugin é possivel realizar uma conexão entre a tabela do BigQuery e do Sheets. O plugin tambem tem a possibilidade de atualizar os dados da tabela do Sheets, deixando-o atualizado caso tenha mudanças na tabela do BigQuery.
-
-## Considerações Finais <a name = "final"></a>
-
-Como não tenho autorização do site para realizar a extração dos dados pois site não permite a extração das informações <i>(de acordo com o FAQ)</i>, resolvi realizar a extração de dados somente da primeira lista de jogos. Uma alternativa de obter as informações seria utilizar alguma <a href='https://github.com/ValvePython/steam'>biblioteca</a> para obter as informações diretamente do steam, assim respeitando as politicas de uso do site steamDB.
